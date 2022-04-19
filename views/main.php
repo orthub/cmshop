@@ -12,7 +12,7 @@
     <div class="row">
       <div class="col-6">
         <div class="text-center">
-          <img class="main-img" src="/img/comp/main_3.jpg" alt="main image number three">
+
         </div>
       </div>
       <div class="col-6 text-center">
