@@ -30,7 +30,7 @@
       </div>
       <div class="col-6">
         <div class="text-center">
-          <img class="main-img" src="/img/comp/main_2.jpg" alt="main image two">
+
         </div>
       </div>
     </div>
